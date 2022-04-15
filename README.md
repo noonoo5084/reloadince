@@ -4,6 +4,11 @@
 
 <a href="https://repl.it/github/binary-person/womginx"><img src="https://docs.replit.com/images/repls/run-on-replit.svg" alt="Replit" width="150"/></a>
 
+<a href="https://glitch.com/edit/#!/import/github/binary-person/womginx"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
+
+![image](https://user-images.githubusercontent.com/97248373/163567102-1ccf2fdc-458b-4bed-b2ad-a24295f11205.png)
+
+
 **Before you deploy to Heroku, read the following: Heroku decided that this repository violates the ToS, so directly clicking the button below if you're in the main repository will result in an error. Forked repositories may work, though this is not guaranteed. Regardless, I am NOT responsible if your Heroku account gets suspended because of deploying this application. Proceed at your own risk.**
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/?template=https://github.com/noonoo5084/reload)
